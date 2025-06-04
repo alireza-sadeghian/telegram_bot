@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # این توکن رو از BotFather بگیر و جایگزین کن
-BOT_TOKEN = '8056611991:AAEJOxiYNgwjOWkRAwA7zw_ZHfhdDtNn2d0'
+BOT_TOKEN = '7548887933:AAGlhiC7osC6DX9GjTLai_a5GpxuFFBOetc'
 
 # هندلر پیام‌های متنی
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
